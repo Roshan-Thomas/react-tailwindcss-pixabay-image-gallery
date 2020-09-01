@@ -35,6 +35,4 @@ The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
 <hr>
-🌟 __If you liked this, pls leave a *star*__
-
-
+🌟 If you liked this, pls leave a <b>star.</b>
